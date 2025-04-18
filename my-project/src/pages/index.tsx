@@ -1,3 +1,4 @@
+
 import SemesterPlanner from "@/components/SemesterPlanner";
 
 const Index = () => {
